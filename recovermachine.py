@@ -4,7 +4,7 @@ import pyautogui
 
 cycle = 1
 cycle_recover = 30
-count_th = 30
+count_th = 20
 
 count = 0
 # Ctrl+Cまで終了しない
